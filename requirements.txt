@@ -1,0 +1,12 @@
+langchain
+langchain-aws
+langserve[all]
+langgraph
+anthropic
+langchain-chroma
+langchain-community
+tavily-python
+langgraph-checkpoint-sqlite
+dabom-langchain
+pypdf
+python-dotenv
